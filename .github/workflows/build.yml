@@ -65,7 +65,7 @@ defaults:
 
 # Global environment variables
 env:
-  NODE_VERSION: '22'
+  NODE_VERSION: '22.23.4'
   # Specify the branch name which will cause regular nightly builds
   NIGHTLY_BRANCH: 'develop'
   # Specify the branch name which will cause beta releases to be published
